@@ -15,7 +15,9 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License
   -->
-<resources>
-  <string name="notification_channel_voicemail">Mensaxes de voz</string>
-  <string name="notification_channel_misc">Por defeutu</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="spam_notification_non_spam_call_collapsed_text">Thoir gnogag ’ga chur ris an luchd-aithne no a bhacadh àireamh spama.</string>
+  <string name="spam_notification_non_spam_call_expanded_text">Seo a’ chiad turas a chuir an àireamh seo fòn thugad. Mas e spama a bh’ ann, ’s urrainn dhut an àireamh seo a bhacadh agus aithris a dhèanamh oirre.</string>
+  <string name="spam_notification_add_contact_action_text">Cuir neach-aithne ris</string>
+  <string name="spam_notification_dialog_add_contact_action_text">Cuir ris an luchd-aithne</string>
 </resources>
